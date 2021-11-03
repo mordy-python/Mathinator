@@ -6,3 +6,5 @@ fmt:
 	python -m black mathinator/
 clean:
 	rm -rfv __pycache__
+build:
+	python -m build
