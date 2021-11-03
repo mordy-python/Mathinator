@@ -11,10 +11,10 @@ setuptools.setup(
     description="A command line tool to do hard math quickly",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    # url="https://github.com/pypa/sampleproject",
-    # project_urls={
-        # "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
-    # },
+    url="https://github.com/mordy-python/Mathinator",
+    project_urls={
+        "Bug Tracker": "https://github.com/mordy-python/Mathinator/issues",
+    },
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
